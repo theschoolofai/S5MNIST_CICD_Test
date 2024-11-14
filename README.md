@@ -1,7 +1,5 @@
 # ML Model CI/CD Pipeline
 
-![Build Status](https://github.com/YOUR_USERNAME/YOUR_REPO/workflows/ML%20Pipeline/badge.svg)
-
 This repository contains a simple CNN model for MNIST classification with a complete CI/CD pipeline.
 
 ## Local Setup
